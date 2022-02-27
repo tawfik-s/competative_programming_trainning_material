@@ -4,7 +4,14 @@ using namespace std;
 
 int main(){
 
-    cout<<"hellow world";
+  
+  stack<char>st;
+
+
+  
+
+   
+
 
 
     return 0;

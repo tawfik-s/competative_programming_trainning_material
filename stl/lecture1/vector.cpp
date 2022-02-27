@@ -21,7 +21,8 @@ int main()
 
 
     vector<int> g1;
-  
+    g1.reserve(5);
+
     for (int i = 1; i <= 5; i++)
         g1.push_back(i);
   

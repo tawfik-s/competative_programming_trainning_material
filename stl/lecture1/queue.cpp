@@ -31,6 +31,7 @@ int main()
  
     cout << "\ngquiz.pop() : ";
     gquiz.pop();
+    
     showq(gquiz);
  
     return 0;
