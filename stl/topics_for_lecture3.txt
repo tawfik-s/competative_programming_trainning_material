@@ -1,0 +1,41 @@
+->sorting
+  sort(startaddress, endaddress);
+
+->searching
+
+binary_search(startaddress, endaddress, valuetofind)
+
+lower_bound returns an iterator pointing to the first element in the range [first,last) which has a value not less than ‘val’. 
+upper_bound returns an iterator pointing to the first element in the range [first,last) which has a value greater than ‘val’. 
+
+
+-----magical algorithms-----//https://www.geeksforgeeks.org/c-magicians-stl-algorithms/
+reverse
+*max_element
+*min_element
+accumulate =>summation of vector max_element
+
+arr.erase(position to be deleted)
+arr.erase(unique(arr.begin(),arr.end()),arr.end())
+    to erase duplicate occurences in sorted vector in a line
+
+next_permutation(first_iterator, last_iterator) 
+    – This modified the vector to its next permutation.
+prev_permutation(first_iterator, last_iterator)
+     – This modified the vector to its previous permutation. 
+
+iota()
+
+----more about iterator------
+
+https://www.geeksforgeeks.org/iterators-c-stl/
+
+check the links of types of iterator input iterator ,output iterator ,forward iterator ,bidirectional iterator ,random access iterator
+
+
+
+
+good to know    //https://www.geeksforgeeks.org/useful-array-algorithms-in-c-stl/
+
+
+
