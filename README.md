@@ -3,9 +3,9 @@
 
 stl session link
 
-https://www.youtube.com/watch?v=gPH9mlDFbYw&list=PLk6CEY9XxSIBPZCfQiphw4221uSbp0Q75
+https://youtu.be/bwJRz6URmPManother 
 
-another great list
+great list
 
 https://www.youtube.com/playlist?list=PLk6CEY9XxSIBPZCfQiphw4221uSbp0Q75
 
