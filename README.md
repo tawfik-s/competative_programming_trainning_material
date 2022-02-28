@@ -1,2 +1,11 @@
 # competative_programming_trainning_material
-trainning material for problem solving and algorithms sessions belong to me 
+
+
+stl session link
+
+https://www.youtube.com/watch?v=gPH9mlDFbYw&list=PLk6CEY9XxSIBPZCfQiphw4221uSbp0Q75
+
+another great list
+
+https://www.youtube.com/playlist?list=PLk6CEY9XxSIBPZCfQiphw4221uSbp0Q75
+
