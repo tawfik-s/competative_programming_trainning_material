@@ -1,18 +1,15 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+
+typedef long long ll;
 
 using namespace std;
 
-int main(){
+int main()
+{
 
-  
-  stack<char>st;
+  ll i;
 
+  size_t i;
 
-  
-
-   
-
-
-
-    return 0;
+  return 0;
 }
